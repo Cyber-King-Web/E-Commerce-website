@@ -2,9 +2,7 @@
 
 Build a Clothing Website using **HTML**, **CSS** & **JavaScript**.
 
-[Watch video on youtube](https://youtu.be/l_pICfsY3KM "Responsive Clothing Website")
-
-[View demo](https://codingweb33.github.io/Shopy/ "Responsive Clothing Website")
+[View demo](https://quadriecom.netlify.app/)
 
 Video contents:
 
@@ -17,4 +15,4 @@ Video contents:
 
 ![img](Clothing%20Website.png)
 
-Hey bro please don't forget to subscribe to [my channel](https://www.youtube.com/@CodingWeb3 "CodingWeb") and like the [video](https://youtu.be/l_pICfsY3KM "Responsive Clothing Website") 😊😊.
+Hey bro please don't forget to subscribe to [my website](https://quadriweb.netlify.app/) 😊😊.
